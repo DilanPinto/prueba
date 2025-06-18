@@ -1,0 +1,37 @@
+1.Indique al menos 10 de las etiquetas utilizadas en el código
+
+<h1> sirve para escribir un encabezado en el body
+<p> sirve para escribir párrafos en el body
+<img> sirve para colocar una imagen en el body
+<li> sirve para coloca contenido en una lista
+<ul>sirve para crear una lista
+<ol>sirve para crear una lista ordenada 
+<h2>sirve para escribir un encabezado en el body
+<link>sirve para corneta otra archivo como un HTML o css al la pagina 
+<title>sirve para escribir un titulo para la pagina wed 
+
+2.Indique al menos 10 errores presentes en el código
+
+en la linea 10 la lista empieza con <ul> y después termina en la linea 15 con <ol> tiene que termina con <ul>
+
+en la linea 11 al final esta la etiqueta <li> faltándole el / 
+para que quede </il>
+
+en la linea 12 al final esta la etiqueta <li> faltándole el / 
+para que quede </il>
+
+en la linea 13 al final esta la etiqueta <li> faltándole el / 
+para que quede </il>
+
+en la linea 19 empieza con <h1> y termina con <h> tiene que termina con </h1>
+
+en la linea 23 la lista empieza con <ul> pero no esta cerrada al fina
+se tiene que cerra con </ul>
+
+en la linea 3 esta la estiqueta <head> pero después en la linea 8 cierra con </header> siendo que tiene que cerra con </head>
+
+en la linea 24 la etiqueta <li> no esta cerrada tiene que cerra con </li>
+
+en la linea 25 la etiqueta <li> no esta cerrada tiene que cerra con </li>
+
+en la linea 26 la etiqueta <li> no esta cerrada tiene que cerra con </li>
